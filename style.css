@@ -1,0 +1,22 @@
+body {
+    background-color: #008844;
+    font-family: comic-sans, sans-serif;
+    color:#C0FFC0;
+}
+
+table {
+    border-collapse: collapse;
+}
+td {
+    border: 1px solid black;
+}
+
+#price-table {
+   display: inline-block; 
+   float: left;
+   margin: 20px;
+}
+
+#form-body {
+    display: inline-block;
+}
